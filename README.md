@@ -7,3 +7,5 @@ A very simple Markdown editor created with Node Webkit. This code is part of a t
 1. With the command line, go to the folder and run `npm install`. This will install the dependencies for the editor.
 1. From <http://nwjs.io/>, download the right version of Node-Webkit and extract the contents to the folder.
 1. Voila, you're done. You might want to read [something](https://github.com/nwjs/nw.js/wiki/How-to-package-and-distribute-your-apps) about packaging and distributing Node-Webkit apps.
+
+![The editor](/img/md-complete.jpg)
