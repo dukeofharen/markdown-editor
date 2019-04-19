@@ -1,5 +1,5 @@
 # Node-Webkit Markdown Editor
-A very simple Markdown editor created with Node Webkit. This code is part of a tutorial: <http://ducode.org/node-webkit-tutorial-creating-a-markdown-editor.html>. The code is released under the MIT license, so do what you want with the code.
+A very simple Markdown editor created with Node Webkit. This code is part of a tutorial: <https://ducode.org/posts/node-webkit-tutorial-creating-a-markdown-editor/>. The code is released under the MIT license, so do what you want with the code.
 
 The editor is more a stub than a complete Markdown editor. Use this as a base for your own Markdown editor.
 
